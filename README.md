@@ -1,6 +1,5 @@
 # Movies_to_Watch
 - Once Upon a Time in Hollywood
-- Goodfellas
 - Ladybird
 - The Departed
 - Death of Stalin
@@ -14,5 +13,5 @@
 - Kill Bill
 - Green Mile
 - The Master
-- Point Break
-- FIght Club
+- Fight Club
+- Bill and Ted's Excellent Adventure
