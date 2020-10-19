@@ -1,7 +1,6 @@
 # Movies_to_Watch
 - Once Upon a Time in Hollywood
 - Ladybird
-- The Departed
 - Death of Stalin
 - Grumpy Old Men
 - My Cousin Vinny
@@ -17,3 +16,14 @@
 - Bill and Ted's Excellent Adventure
 - God's Not Dead
 - Bourne Identity/Supremacy/Ultimatum
+- Happy Gilmore
+- Caddyshack
+
+# Watched
+- The Departed
+- Braveheart
+- Goodfellas
+- Grand Budapest Hotel
+- Scent of a Woman
+- Shrek
+- Shrek 2
