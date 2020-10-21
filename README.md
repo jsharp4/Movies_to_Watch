@@ -27,3 +27,4 @@
 - Scent of a Woman
 - Shrek
 - Shrek 2
+- Troy
