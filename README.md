@@ -18,6 +18,7 @@
 - Bourne Identity/Supremacy/Ultimatum
 - Happy Gilmore
 - Caddyshack
+- Shaun of the Dead
 
 # Watched
 - The Departed
